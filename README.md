@@ -25,6 +25,17 @@ The extension has already been publicly released and is being used by real custo
 
 ---
 
+## Official Product
+
+Baiak Idle Deluxe is publicly distributed through the Chrome Web Store.
+
+- 🌐 **Official Website:** [baiak-idle-deluxe-site.lhamadev.workers.dev](https://baiak-idle-deluxe-site.lhamadev.workers.dev)
+- 🧩 **Chrome Web Store:** [View Baiak Idle Deluxe](https://chromewebstore.google.com/detail/baiak-idle-deluxe/kfhkbephfkdjkoehaanegamelppodibj)
+
+The production source code is maintained privately.
+
+---
+
 ## My Role
 
 I am responsible for the product's development and technical evolution, including:
